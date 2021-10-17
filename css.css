@@ -1,0 +1,3 @@
+body{background-color:#222;color:#fff;height:1000px;font-family:"Tahoma"}
+button{background-color:#fff;padding:20px;font-size:17px;border:none;border-radius:10px;text-decoration: one;transition:.3s;cursor:pointer}
+button:hover{background-color:orange;color:#fff}
